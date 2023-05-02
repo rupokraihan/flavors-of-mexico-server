@@ -1,26 +1,86 @@
 [
   {
     "id": "01",
-    "categoryLogo": "https://i.ibb.co/NLdqyCP/accounts-1.png",
-    "categoryName": "Account & Finance",
-    "jobsAvailable": "450"
+    "name": "Juan Garcia",
+    "image": "https://www.washingtonian.com/wp-content/uploads/2021/06/Makoto-copy.jpg",
+    "experience": "Over 10 years of experience cooking Mexican cuisine",
+    "totalRecipes": "50+",
+    "likes": "10k+",
+    "bio": "Juan Garcia is a passionate chef who has been cooking traditional Mexican cuisine for over 10 years. He loves experimenting with different ingredients and creating unique flavors that showcase the rich culture and history of Mexico.",
+    "recipeName": "Chiles Rellenos",
+    "ingredients": "Poblano peppers, ground beef, garlic, onion, tomato sauce, oregano, cumin, salt, pepper",
+    "cookingMethod": "Roast the peppers, sauté the beef with garlic and onion, stuff the peppers with the beef mixture, top with tomato sauce and spices, bake until bubbly and golden.",
+    "rating": "4.8/5",
+    "favoriteRecipes": ["Enchiladas", "Tacos al Pastor", "Guacamole"]
   },
   {
     "id": "02",
-    "categoryLogo": "https://i.ibb.co/r0ppM27/business-1.png",
-    "categoryName": "Creative Design",
-    "jobsAvailable": "280"
+    "name": "Maria Hernandez",
+    "image": "https://images.unsplash.com/photo-1512484776495-a09d92e87c3b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "experience": "Trained in traditional Mexican cooking techniques at culinary school",
+    "totalRecipes": "100+",
+    "likes": "20k+",
+    "bio": "Maria Hernandez is a professionally trained chef who specializes in traditional Mexican cuisine. She learned the art of cooking from her grandmother and honed her skills at culinary school. Her dishes are always bursting with flavor and color.",
+    "recipeName": "Pico de Gallo",
+    "ingredients": "Tomatoes, onion, jalapeño, lime juice, cilantro, salt, pepper",
+    "cookingMethod": "Chop the tomatoes, onion, and jalapeño finely, mix with lime juice and cilantro, season with salt and pepper.",
+    "rating": "4.5/5",
+    "favoriteRecipes": ["Salsa Verde", "Chiles en Nogada", "Tamales"]
   },
   {
     "id": "03",
-    "categoryLogo": "https://i.ibb.co/NYzdzJg/social-media-1.png",
-    "categoryName": "Marketing & Sales",
-    "jobsAvailable": "360"
+    "name": "Pedro Chavez",
+    "image": "https://images.pexels.com/photos/5920774/pexels-photo-5920774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "experience": "Started cooking Mexican food as a teenager and never looked back",
+    "totalRecipes": "75+",
+    "likes": "15k+",
+    "bio": "Pedro Chavez has been passionate about cooking since he was a teenager. He started experimenting with Mexican recipes and never looked back. Today, he is a skilled chef who loves to share his love of food with others.",
+    "recipeName": "Taco Salad",
+    "ingredients": "Ground beef, lettuce, tomato, onion, cheddar cheese, tortilla chips, sour cream, salsa, guacamole",
+    "cookingMethod": "Brown the beef, chop the lettuce, tomato, and onion, mix with cheese and chips, top with sour cream, salsa, and guacamole.",
+    "rating": "4.2/5",
+    "favoriteRecipes": ["Taco Soup", "Mexican Rice", "Chimichangas"]
   },
   {
     "id": "04",
-    "categoryLogo": "https://i.ibb.co/jfvcK6G/chip-1.png",
-    "categoryName": "Engineering Job",
-    "jobsAvailable": "150"
+    "name": "Sofia Ramirez",
+    "image": "https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "experience": "Owned a successful Mexican restaurant for 15 years",
+    "totalRecipes": "200+",
+    "likes": "30k+",
+    "bio": "Sofia Ramirez is a veteran chef who owned and operated a popular Mexican restaurant for over 15 years. She has extensive knowledge of Mexican cuisine and loves to share her expertise with others.",
+    "recipeName": "Tamales",
+    "ingredients": "Corn husks, masa harina, chicken or pork, chili sauce, garlic, onion, cumin, oregano, salt",
+    "cookingMethod": "Soak the corn husks, mix the masa harina with water, chicken or pork and spices, spread on the husks, fold and steam for an hour.",
+    "rating": "4.7/5",
+    "favoriteRecipes": ["Chile Relleno Casserole", "Mole Sauce", "Sopaipillas"]
+  },
+  {
+    "id": "05",
+    "name": "Carlos Martinez",
+    "image": "https://images.pexels.com/photos/4252137/pexels-photo-4252137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "experience": "Traveled throughout Mexico to learn regional cooking styles",
+    "totalRecipes": "150+",
+    "likes": "25k+",
+    "bio": "Carlos Martinez is a chef who has traveled extensively throughout Mexico to learn about the different regional cooking styles. He is passionate about bringing authentic Mexican flavors to the table and loves experimenting with new ingredients and techniques.",
+    "recipeName": "Enchiladas Verdes",
+    "ingredients": "Corn tortillas, chicken or pork, tomatillos, jalapeno peppers, garlic, onion, cumin, coriander, salt, queso fresco",
+    "cookingMethod": "Blend tomatillos, jalapeno peppers, garlic, and onion into a sauce. Cook chicken or pork with cumin, coriander, and salt. Dip tortillas in the sauce, fill with meat, roll up, and bake with more sauce and queso fresco on top.",
+    "rating": "4.8/5",
+    "favoriteRecipes": ["Chiles en Nogada", "Pico de Gallo", "Tortilla Soup"]
+  },
+  {
+    "id": "06",
+    "name": "Lupita Hernandez",
+    "image": "https://media.istockphoto.com/id/1154801795/photo/chinese-chef.jpg?s=170667a&w=0&k=20&c=2_RgUi6aG4gUKy2mFO2WeJ2EeiOU-DkbuaZ7YR26MHE=",
+    "experience": "Grew up learning family recipes from her grandmother",
+    "totalRecipes": "100+",
+    "likes": "20k+",
+    "bio": "Lupita Hernandez is a chef who grew up in Mexico learning family recipes from her grandmother. She is passionate about preserving traditional Mexican cuisine and loves sharing her knowledge with others.",
+    "recipeName": "Chiles Rellenos",
+    "ingredients": "Poblano peppers, ground beef, onion, garlic, tomato, raisins, almonds, cinnamon, cumin, oregano, salt, egg whites",
+    "cookingMethod": "Roast and peel the peppers, stuff with cooked beef and a mixture of onion, garlic, tomato, raisins, almonds, and spices. Dip in egg whites, fry until golden, and serve with tomato sauce.",
+    "rating": "4.6/5",
+    "favoriteRecipes": ["Tres Leches Cake", "Guacamole", "Pork Carnitas"]
   }
-]
+  ]

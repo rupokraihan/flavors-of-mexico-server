@@ -54,33 +54,5 @@
     "cookingMethod": "Soak the corn husks, mix the masa harina with water, chicken or pork and spices, spread on the husks, fold and steam for an hour.",
     "rating": "4.7/5",
     "favoriteRecipes": ["Chile Relleno Casserole", "Mole Sauce", "Sopaipillas"]
-  },
-  {
-    "id": "05",
-    "name": "Carlos Martinez",
-    "image": "https://images.pexels.com/photos/4252137/pexels-photo-4252137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "experience": "Traveled throughout Mexico to learn regional cooking styles",
-    "totalRecipes": "150+",
-    "likes": "25k+",
-    "bio": "Carlos Martinez is a chef who has traveled extensively throughout Mexico to learn about the different regional cooking styles. He is passionate about bringing authentic Mexican flavors to the table and loves experimenting with new ingredients and techniques.",
-    "recipeName": "Enchiladas Verdes",
-    "ingredients": "Corn tortillas, chicken or pork, tomatillos, jalapeno peppers, garlic, onion, cumin, coriander, salt, queso fresco",
-    "cookingMethod": "Blend tomatillos, jalapeno peppers, garlic, and onion into a sauce. Cook chicken or pork with cumin, coriander, and salt. Dip tortillas in the sauce, fill with meat, roll up, and bake with more sauce and queso fresco on top.",
-    "rating": "4.8/5",
-    "favoriteRecipes": ["Chiles en Nogada", "Pico de Gallo", "Tortilla Soup"]
-  },
-  {
-    "id": "06",
-    "name": "Lupita Hernandez",
-    "image": "https://media.istockphoto.com/id/1154801795/photo/chinese-chef.jpg?s=170667a&w=0&k=20&c=2_RgUi6aG4gUKy2mFO2WeJ2EeiOU-DkbuaZ7YR26MHE=",
-    "experience": "Grew up learning family recipes from her grandmother",
-    "totalRecipes": "100+",
-    "likes": "20k+",
-    "bio": "Lupita Hernandez is a chef who grew up in Mexico learning family recipes from her grandmother. She is passionate about preserving traditional Mexican cuisine and loves sharing her knowledge with others.",
-    "recipeName": "Chiles Rellenos",
-    "ingredients": "Poblano peppers, ground beef, onion, garlic, tomato, raisins, almonds, cinnamon, cumin, oregano, salt, egg whites",
-    "cookingMethod": "Roast and peel the peppers, stuff with cooked beef and a mixture of onion, garlic, tomato, raisins, almonds, and spices. Dip in egg whites, fry until golden, and serve with tomato sauce.",
-    "rating": "4.6/5",
-    "favoriteRecipes": ["Tres Leches Cake", "Guacamole", "Pork Carnitas"]
   }
-  ]
+]

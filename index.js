@@ -14,6 +14,12 @@ app.get('/', (req, res) => {
 app.get("/alldata", (req, res) => {
   res.send(allData);
 });
+app.get('/alldata/:id', (req, res) => {
+  const id = req.params.id;
+  console.log(id)
+  const selectedChefs = allData.find(d => d.id === id);
+  res.send(selectedChefs);
+})
 
 app.listen(port, () => {
   console.log(`hey : ${port}`)
